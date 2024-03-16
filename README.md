@@ -46,6 +46,9 @@ Outcome: Aims to enhance road safety by providing data-driven insights into acci
 This notebook is designed as a comprehensive guide for aspiring data scientists to apply various data science techniques, ranging from basic visualizations to complex machine learning models. Through these tasks, interns are expected to gain valuable experience that will aid in their professional development in the field of data science.
 
 ### How to Use
+
+Make sure to un-zip dataSET.zip and change relevant file paths in Jupyter Notebook code script.
+
 Ensure Python and necessary libraries (pandas, numpy, matplotlib, seaborn, sklearn) are installed.
 
 Follow the task instructions and code comments for step-by-step guidance.
